@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning good Software Engineering (framework agnostic)
 - 🌱 I’m currently learning React, ASP.NET, C#, Typescript, Node.js, Angular, Azure  
 - 💞️ I’m looking to collaborate on VSCode
-- 📫 How to reach me karandaftary@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/karandaftary/
 
 <!---
 karandaftary/karandaftary is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
